@@ -1,0 +1,48 @@
+commit a4dd21f8a4052263cf9bb2263a8469af5eb1ae42
+Merge: 0388a25 fbe27e8
+Author: notBillJames <67621470+notBillJames@users.noreply.github.com>
+Date:   Fri Aug 14 22:28:50 2026 -0700
+
+    merge conflict resolved
+
+commit 0388a2592864315c3e55b60338e965fe69c7edb0
+Author: notBillJames <67621470+notBillJames@users.noreply.github.com>
+Date:   Fri Aug 14 22:25:51 2026 -0700
+
+    added git version into README.md
+
+commit fbe27e8ad1b8a1c49d710c8a0629535eb7960337
+Author: notBillJames <67621470+notBillJames@users.noreply.github.com>
+Date:   Fri Aug 14 22:19:16 2026 -0700
+
+    added student ID to README.md
+
+commit 8829122942af0dcc597028e063d67c7ef96866ea
+Author: notBillJames <67621470+notBillJames@users.noreply.github.com>
+Date:   Fri Aug 14 22:08:11 2026 -0700
+
+    switched from pretty good vision to pretty great vision
+
+commit 97bda92aa72d4cb0e79803f970c1cdccaa34da20
+Author: notBillJames <67621470+notBillJames@users.noreply.github.com>
+Date:   Fri Aug 14 22:07:31 2026 -0700
+
+    switched from Western to Eastern Tech Hub
+
+commit f1e9a99b8912e252a5d8524233ac09998d50648a
+Author: notBillJames <67621470+notBillJames@users.noreply.github.com>
+Date:   Fri Aug 14 22:06:20 2026 -0700
+
+    switched about first sentence to be negative counterpart of original verbs
+
+commit 194e1b48597d51a13e257693e74da80d2882b5c7
+Author: matt.alexander8 <matt@twocom.com>
+Date:   Thu Aug 24 14:47:21 2023 -0400
+
+    Added intial project
+
+commit 959a15aab3bfa9f105acbbf5d66930b053d28249
+Author: Matt Alexander <matt@twocom.com>
+Date:   Thu Aug 24 17:21:16 2023 +0000
+
+    Initial commit

@@ -1,0 +1,4 @@
+merge conflict in E1 was resolved by accepting both changes, including student ID and git version in the README.md file
+In about.html I switched the content in first <p></p> to be the negative counterpart of what originally there
+In customers.html I changed the heading from Western Tech Hub to Eastern Tech Hub
+in vision.html I revised the phrase "Our vision is pretty good" to "Or vision is pretty Great"
