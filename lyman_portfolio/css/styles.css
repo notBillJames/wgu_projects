@@ -16,40 +16,50 @@
 */
 
 * {
-    background-color: #fdfdfd;
-    padding: 2px 0;
+    font-family: 'Aptos', Arial, Helvetica, sans-serif;
+}
+.education {
+    font-family: 'Times New Roman', Times, serif;
+    max-width: 650px;
+    color: #000;
+}
+
+.header-contatiner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #e0e0e0;
+    padding-bottom: 4px;
+    margin-bottom: 8px;
+}
+
+.header-contatiner h2 {
+    color: #0d3b66;
+    font-size: 20px;
+    font-weight: normal;
+    letter-spacing: 0.5px;
     margin: 0;
 }
 
-#contact {
+.education-item {
     display: flex;
-    align-items: center;
-    justify-content: space-evenly;
-    text-align: center;
+    justify-content: space-between;
+    align-items: flex-end;
 }
 
-body {
-    font-family: Times New Roman, Arial, sans-serif;
+.institution {
+    font-size: 18px;
+    line-height: 1.2;
 }
 
-.resume-content {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+.location {
+    font-size: 18px;
+    line-height: 1.2;
+    margin-bottom: 4px;
 }
 
-em {
-    color: #555555;
-}
-
-ul {
-    list-style: none;
-    padding-left: 20px;
-}
-
-li::before {
-    content: "- ";
-}
-
-.name {
-    color: #0b5394;
+.dates, .degree {
+    font-size: 14px;
+    font-style: italic;
+    color: #555;
 }
