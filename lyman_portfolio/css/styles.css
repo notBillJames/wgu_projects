@@ -15,9 +15,37 @@
 •   at least 1 list-style property
 */
 
+* {
+    margin: 2px;
+    padding: 0;
+}
+
+#contact {
+    align-items: center;
+    text-align: center;
+}
+
 body {
  font-family: Arial, sans-serif;
- margin: 20px;
+ margin: 0;
  padding: 0;
- background-color: #f4f4f4;
+ background-color: #fdfdfd;
+}
+
+.resume-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+em {
+    color: #555555;
+}
+
+ul {
+    list-style: none;
+    padding-left: 20px;
+}
+
+li::before {
+    content: "- ";
 }
