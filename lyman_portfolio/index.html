@@ -44,9 +44,8 @@
         <hr>
     </section>
     <section id="resume">
-        <h2>Resume</h2>
         <!-- Education -->
-        <section id="education">>
+        <section id="education">
             <h3>Education</h3>
             <article>
                 <h4>Western Governor's University</h4>
@@ -238,4 +237,16 @@
     </section>
 </body>
 
+<footer>
+    <hr>
+    <p style="display:inline-block;">
+        &copy; <span id="current-year"></span> Chuck Lyman. All rights reserved.
+    </p>
+    <div id="current-date" style="display:inline-block;"></div>
+    <script>
+        document.getElementById("current-date").textContent = new Date().toLocaleDateString();
+        document.getElementById("current-year").textContent = new Date().getFullYear();
+        console.log("Welcome to my webpage!");
+    </script>
+</footer>
 </html>
