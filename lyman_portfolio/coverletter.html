@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Chuck Lyman -- Cover Letter</title>
+		<link rel="stylesheet" href="css/styles.css" />
+	</head>
+	<!-- Header containing Nav Bar and my name -->
+	<header>
+		<nav class="navbar">
+			<!-- Navigation Links -->
+			<ul class="nav-links">
+				<li><a href="index.html" class="active">Resumé</a></li>
+				<li><a href="coverletter.html">Cover Letter</a></li>
+				<li><a href="goals.html">Career Goals</a></li>
+			</ul>
+		</nav>
+	</header>
+
+	<body></body>
+
+	<footer>
+		<hr />
+		<p style="display: inline-block">
+			&copy; <span id="current-year"></span> Chuck Lyman. All rights
+			reserved.
+		</p>
+		<div id="current-date" style="display: inline-block"></div>
+		<p>
+			Click for more fun stuff! ---&gt;
+			<a href="https://youtu.be/dQw4w9WgXcQ?si=Fph3zSmCFgyQYDIr">link</a>
+			:&rpar;
+		</p>
+		<script>
+			document.getElementById("current-date").textContent =
+				new Date().toLocaleDateString();
+			document.getElementById("current-year").textContent =
+				new Date().getFullYear();
+			console.log("Welcome to my webpage!");
+		</script>
+	</footer>
+</html>
