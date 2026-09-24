@@ -18,7 +18,29 @@
 		</nav>
 	</header>
 
-	<body></body>
+	<body>
+		<main>
+			<article class="cover-letter-content">
+				<h1 style="text-align: center">Chuck Lyman</h1>
+				<section id="cover-letter-header">
+					<div id="header-date"></div>
+					<p>
+                        <strong>To Whom It May Concern:</strong>
+                    </p>
+				</section>
+                <section class="cover-letter-body">
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora nam quasi, saepe quam officia optio nobis magnam veritatis nesciunt, maiores qui tempore eveniet, vero illum eos cum. Facilis, quas alias placeat vero consectetur, ad perspiciatis magni doloribus ut illum perferendis error deleniti provident. Eligendi quae consequatur dolore, labore illum impedit!
+                    </p>
+                    <p><em>
+                        Nihil inventore vel delectus, amet aut iste fugiat, illo impedit quibusdam obcaecati totam qui a ea cumque, quia officia debitis dignissimos quisquam ipsum quidem esse eligendi repellat? Minus maxime vel voluptas sunt? Consequatur autem quasi magni dignissimos fugit? Alias earum illo error cupiditate at laboriosam dignissimos expedita necessitatibus tenetur repellendus?
+                    </em></p>
+                    <p>
+                        Saepe vel provident quis minus vitae delectus magni fugit illum sequi harum, commodi hic non cupiditate illo! Reiciendis quidem amet tempora maxime assumenda nesciunt ipsum? Illum, ipsa? <span id="span1">Ex accusantium dolore tempora molestiae nostrum, facilis repellendus exercitationem aut minima illo maiores, similique sint ipsum nobis optio eligendi mollitia voluptate quas libero.</span>
+                    </p>
+			</article>
+		</main>
+	</body>
 
 	<footer>
 		<hr />
@@ -28,11 +50,17 @@
 		</p>
 		<div id="current-date" style="display: inline-block"></div>
 		<p>
-			Click for more fun stuff! ---&gt;
+			<mark>Click for more fun stuff!</mark> ---&gt;
 			<a href="https://youtu.be/dQw4w9WgXcQ?si=Fph3zSmCFgyQYDIr">link</a>
 			:&rpar;
 		</p>
 		<script>
+			document.getElementById("header-date").textContent =
+				new Date().toLocaleDateString("en-US", {
+					year: "numeric",
+					month: "long",
+					day: "numeric",
+				});
 			document.getElementById("current-date").textContent =
 				new Date().toLocaleDateString();
 			document.getElementById("current-year").textContent =

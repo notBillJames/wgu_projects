@@ -20,6 +20,24 @@
 	background-color: white;
 }
 
+body {
+	margin: 0;
+	padding-top: 72px;
+	margin: 2rem;
+}
+
+hr {
+	width: 100vw;
+	margin-left: calc(50% - 50vw);
+	border: 0;
+	border-top: 1px solid #000;
+}
+
+ul {
+	list-style: none;
+	padding-left: 20px;
+}
+
 #contact {
 	display: flex;
 	justify-content: center;
@@ -27,6 +45,15 @@
 	gap: 1rem;
 	text-align: center;
 	flex-wrap: wrap;
+}
+
+#span1 {
+	background-color: yellow;
+}
+
+mark {
+	background-color: yellow;
+	color: black;
 }
 
 .navbar {
@@ -57,19 +84,6 @@
 	text-decoration: none;
 }
 
-body {
-	margin: 0;
-	padding-top: 72px;
-	margin: 2rem;
-}
-
-hr {
-	width: 100vw;
-	margin-left: calc(50% - 50vw);
-	border: 0;
-	border-top: 1px solid #000;
-}
-
 .resume-content {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
@@ -83,13 +97,19 @@ hr {
 	font-style: italic;
 }
 
-ul {
-	list-style: none;
-	padding-left: 20px;
-}
-
 .resume-content li::before {
 	content: "- ";
+}
+
+.cover-letter-header {
+	margin: 0;
+}
+.cover-letter-body {
+	margin: 0 2rem;
+}
+
+.cover-letter-body p {
+	text-indent: 2em;
 }
 
 a:hover {
