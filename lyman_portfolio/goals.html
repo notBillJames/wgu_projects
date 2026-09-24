@@ -18,7 +18,119 @@
 		</nav>
 	</header>
 
-	<body></body>
+	<body>
+		<main>
+			<p>
+				One of my dreams is to work in baseball. I have been a fan of
+				the game since I was a child, and I have always been fascinated
+				by the business side of the sport. I would love to work for a
+				Major League Baseball team, or even for the league itself. I
+				would also love to work in the media side of baseball such as
+				broadcasting or journalism. I have always been interested in the
+				way that baseball is covered in the media, and I would love to
+				be a part of that process.
+			</p>
+			<section class="career-goals">
+				<section>
+					<h2>Image</h2>
+					<figure>
+						<img
+							src="images/baseball-bits-image.jpg"
+							alt="Baseball game photograph"
+						/>
+						<figcaption>
+							Baseball is one of my interests.
+						</figcaption>
+					</figure>
+				</section>
+				<section>
+					<h2>Audio</h2>
+					<audio controls>
+						<source
+							src="media/YTDown.com_YouTube_The-Shot-Heard-Round-The-World_Media_lrI7dVj90zs_007_128k.mp3"
+							type="audio/mpeg"
+						/>
+						Your browser does not support audio playback.
+					</audio>
+					<p>
+						This is the radio call of the famous "shot heard round
+						the world".
+					</p>
+				</section>
+				<section>
+					<h2>Video</h2>
+					<video controls width="480">
+						<source
+							src="media/videoplayback.mp4"
+							type="video/mp4"
+						/>
+						Your browser does not support video playback.
+					</video>
+					<p>
+						This is a video of when my favorite team, the Arizona
+						Diamondbacks, won the 2001 World Series.
+					</p>
+				</section>
+			</section>
+			<h2>Contact Form</h2>
+			<form action="https://wp.zybooks.com/form-viewer.php" method="post">
+				<label for="first-name">First Name:</label>
+				<input type="text" id="first-name" name="first-name" required />
+
+				<label for="last-name">Last Name:</label>
+				<input type="text" id="last-name" name="last-name" required />
+
+				<label for="company-name">Company Name:</label>
+				<input type="text" id="company-name" name="company-name" />
+
+				<label for="email">Email Address:</label>
+				<input type="email" id="email" name="email" required />
+
+				<label for="phone">Phone Number:</label>
+				<input type="tel" id="phone" name="phone" />
+
+				<label for="message">Message:</label>
+				<textarea id="message" name="message" rows="5"></textarea>
+
+				<fieldset>
+					<legend>Best Contact Time:</legend>
+					<label>
+						<input
+							type="radio"
+							name="best-contact-time"
+							value="a.m."
+						/>
+						a.m.
+					</label>
+					<label>
+						<input
+							type="radio"
+							name="best-contact-time"
+							value="p.m."
+						/>
+						p.m.
+					</label>
+					<label>
+						<input
+							type="radio"
+							name="best-contact-time"
+							value="anytime"
+						/>
+						anytime
+					</label>
+				</fieldset>
+
+				<label for="contact-method">Preferred Contact Method:</label>
+				<select id="contact-method" name="contact-method">
+					<option value="phone">phone</option>
+					<option value="email">email</option>
+					<option value="text">text</option>
+				</select>
+
+				<button type="submit">Submit</button>
+			</form>
+		</main>
+	</body>
 
 	<footer>
 		<hr />
