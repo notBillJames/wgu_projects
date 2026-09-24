@@ -12,11 +12,15 @@ Describe the target audience who has the potential to be motivated, informed, or
 
 Provide some details here about your target audience.
 
+The target audience of my presentation is decision makers in the Arizona Diamondbacks Baseball Front office. The key decision makers are Derrick Hall and Mike Hazen, along with their support staffs. They are in charge of team operations and staffing decisions. My presentation aims to persuade some of those decisions.
+
 ### A1A
 
 Describe the purpose of the presentation.
 
 Briefly explain the presentation's goal.
+
+The goal of my presentation is to persuade decision makers in the Arizona Diamondbacks organization to offer a new contract to manager Torrey Lovullo for the next 3 seasons.
 
 ### A2
 
@@ -26,6 +30,10 @@ Then, explain how the technique will motivate, inform, or influence the audience
 
 Write about the communication style you chose for your presentation.
 
+I will use the analytical communication style in my presentation.
+I would hope that my presentation accurately describes the "why" of having a great manager on your baseball team, the "how" a manger can be great, and "what" Torey Lovullo does that makes him a great manager.
+This would motivate them to have a great manager, and a clear explanation of what Torey Lovullo does would influence them to retain him as the manager of the Diamondbacks.
+
 ### A3
 
 First, describe the storytelling element that will be used in the presentation. [See Section 2: Lesson 2.2 and Lesson 2.3]
@@ -33,8 +41,10 @@ First, describe the storytelling element that will be used in the presentation. 
 Second, explain how the element will motivate, inform, or influence the audience. [See Section 2: Lessons 2.4, 2.5 & 2.6]
 
 Choose which storytelling element from the reading is the best for your presentation and why.
+The storytelling element in my presentation that I will be using is data visualization. Data is such an important part of the decision making process in modern baseball. Decision makers have vast amounts of information that they use to make decisions, and it's effectiveness and authority is well respected in the league.
 
 Describe how that element will motivate, inform, or influence your audience.
+The data visualizations that I will be using will inform the audience of Torrey Lovullo's performance as a manager. This message will be clear and concise, which will influence them to hire him again in the upcoming season.
 
 ### A4
 
@@ -43,6 +53,8 @@ Describe the visual design techniques that will be used in the presentation. [Se
 Then, explain how the technique will motivate, inform, or influence the audience. [See Section 2: Lessons 2.4, 2.5 & 2.6]
 
 Select a visual design strategy or strategies from the reading and describe how what you've chosen will either inform, motivate, or influence.
+
+To keep things simple for the audience, I will keep my format clean and simple. I can also highlight the areas of the data visualization related to Torrey Lovullo and the Diamondbacks. This will help the data stand out visually, and influence their perception of how their performance stands out in the context as well. I will also include images to pair with my narration to keep the reading level low and make it easy to follow.
 
 ## Section B
 
