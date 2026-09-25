@@ -95,3 +95,6 @@ secrets.*
 $RECYCLE.BIN/
 .Spotlight-V100/
 .Trashes/
+
+*.docx
+*.pptx
