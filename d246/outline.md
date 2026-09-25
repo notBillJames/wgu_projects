@@ -2,7 +2,7 @@
 
 Instructions: Complete and submit this document as your Task 1 for D246.
 
-<h2 style="display:inline">Instructions for Section A:</h2> <p style="display:inline"> Write a presentation plan for your chosen topic by doing the following:</p>
+**Instructions for Section A:** Write a presentation plan for your chosen topic by doing the following:
 
 ### A1. Describe the target audience who has the potential to be motivated, informed, or influenced by the presentation [See Section 1: Lesson 1.1]
 
