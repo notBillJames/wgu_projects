@@ -96,5 +96,7 @@ $RECYCLE.BIN/
 .Spotlight-V100/
 .Trashes/
 
+# Local Files and Directories
+non-technical/
 *.docx
 *.pptx
